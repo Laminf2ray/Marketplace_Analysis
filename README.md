@@ -1,4 +1,4 @@
-# Marketplace_Analysis
+# Marketplace Analysis
 
 The SQL file includes the outcomes of the marketplace analysis. Below is a table displaying the results obtained from running the code. 
 <table>
